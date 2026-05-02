@@ -1,0 +1,14 @@
+C:\C#\Ch02\StudentGradeCalculator\bin\Debug\net10.0\StudentGradeCalculator.exe
+C:\C#\Ch02\StudentGradeCalculator\bin\Debug\net10.0\StudentGradeCalculator.deps.json
+C:\C#\Ch02\StudentGradeCalculator\bin\Debug\net10.0\StudentGradeCalculator.runtimeconfig.json
+C:\C#\Ch02\StudentGradeCalculator\bin\Debug\net10.0\StudentGradeCalculator.dll
+C:\C#\Ch02\StudentGradeCalculator\bin\Debug\net10.0\StudentGradeCalculator.pdb
+C:\C#\Ch02\StudentGradeCalculator\obj\Debug\net10.0\StudentGradeCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Ch02\StudentGradeCalculator\obj\Debug\net10.0\StudentGradeCalculator.AssemblyInfoInputs.cache
+C:\C#\Ch02\StudentGradeCalculator\obj\Debug\net10.0\StudentGradeCalculator.AssemblyInfo.cs
+C:\C#\Ch02\StudentGradeCalculator\obj\Debug\net10.0\StudentGradeCalculator.csproj.CoreCompileInputs.cache
+C:\C#\Ch02\StudentGradeCalculator\obj\Debug\net10.0\StudentGradeCalculator.dll
+C:\C#\Ch02\StudentGradeCalculator\obj\Debug\net10.0\refint\StudentGradeCalculator.dll
+C:\C#\Ch02\StudentGradeCalculator\obj\Debug\net10.0\StudentGradeCalculator.pdb
+C:\C#\Ch02\StudentGradeCalculator\obj\Debug\net10.0\StudentGradeCalculator.genruntimeconfig.cache
+C:\C#\Ch02\StudentGradeCalculator\obj\Debug\net10.0\ref\StudentGradeCalculator.dll
